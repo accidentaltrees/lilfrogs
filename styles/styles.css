@@ -1,0 +1,25 @@
+h2{ 
+    text-align: center;
+    color:blueviolet;
+    border: 5px solid black;
+    padding: 10px; 
+    margin: 20px;
+}
+
+#top {
+    color:coral;
+}
+
+.excitedtext{
+    color:honeydew ;
+    text-decoration:underline;
+}
+
+body {
+    background-color:lightgrey;
+}
+
+li{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:18px;
+}

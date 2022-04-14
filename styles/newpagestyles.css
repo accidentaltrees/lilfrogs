@@ -1,0 +1,26 @@
+.header{
+    height: 150px;
+    background-color: lightgrey;
+    line-height: 150px;
+}
+
+
+.footer{
+    height: 50px;
+    background-color: black;
+    color: white; 
+    line-height: 50px;
+}
+
+img{
+    width: 25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.common{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
